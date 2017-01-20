@@ -12,3 +12,5 @@ $ git remote set-url --add --push all [Original Repository URL]
 $ git config -l | grep '^remote\.all'
 ```
 Now you can use ```git push all master``` and ```git pull all master```
+
+Reference: http://stackoverflow.com/questions/14290113/git-pushing-code-to-two-remotes
