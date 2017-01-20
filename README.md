@@ -1,4 +1,4 @@
-# git-tools
+# GIT Useful Commands
 It contains not common git commands that are very helpfull
 
 # Multiple pushurl
