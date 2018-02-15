@@ -21,7 +21,7 @@ Reference: http://stackoverflow.com/questions/14290113/git-pushing-code-to-two-r
 
 Run the following command:
 
-1. `$ git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"`
+`$ git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"`
 
 Now, just run this:
 
